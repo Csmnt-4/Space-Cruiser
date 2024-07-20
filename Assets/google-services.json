@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057606883312",
+    "project_id": "endlessspace-1f1aa",
+    "storage_bucket": "endlessspace-1f1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057606883312:android:0450218abd9d7169e22f35",
+        "android_client_info": {
+          "package_name": "com.Csmnt4.EndlessSpaceCruiser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjW4N1eytCAuu10bfIkSuOzRaUVRbLfok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
